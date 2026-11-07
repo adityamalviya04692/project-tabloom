@@ -1,0 +1,7 @@
+spike/out/
+.build/
+dist/
+.DS_Store
+.env
+.env.*
+*.env
